@@ -21,14 +21,14 @@ Skill de Claude que hace de coach y sparring para equipos de estudiantes en comp
 ### Claude Code
 
 ```bash
-git clone https://github.com/TU-USUARIO/investment-competition-coach.git
+git clone https://github.com/Josefbenbunan/investment-competition-coach.git
 cp -r investment-competition-coach/skills/investment-competition-coach ~/.claude/skills/
 ```
 
 ### Con el CLI de skills
 
 ```bash
-npx skills add TU-USUARIO/investment-competition-coach
+npx skills add Josefbenbunan/investment-competition-coach
 ```
 
 ## Cómo se usa
